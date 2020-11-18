@@ -85,7 +85,7 @@ function sshConnect() {
   ssh
     .connect({
       // TODO: ADD YOUR IP ADDRESS BELOW (e.g. '12.34.5.67')
-      host: '34.207.78.201',
+      host: '54.227.72.191',
       username: 'ubuntu',
       privateKey: 'hs-key2.pem'
     })
